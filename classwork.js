@@ -6,6 +6,7 @@
 //
 //     Change the color of the last p tag to yellow.
 
+// !! : use inner text to get the text in an element 
 
 let el = document.getElementsByTagName("p");
 console.log(el[0]);
